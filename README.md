@@ -1,9 +1,5 @@
 # Battleship Game – OOP Coursework Report
 
-**Course:** Object-Oriented Programming 2026  
-**Language:** Python 3  
-**Files:** `battleship.py`, `test_battleship.py`, `REPORT.md`, `game_stats.csv` (created automatically after the first game)
-
 ---
 
 ## 1. Introduction
