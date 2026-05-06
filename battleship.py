@@ -1,7 +1,5 @@
 """
-Battleship Game - OOP Coursework 2026
-Implements all 4 OOP pillars, Factory design pattern,
-composition/aggregation, file I/O, and PEP8 style.
+Battleship Game 
 """
 
 import csv
